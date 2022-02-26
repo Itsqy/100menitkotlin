@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fb8540b-7331-4dd2-b55f-1616c15b16ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hello word" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/aritmatik kotlin.kt" />
+        <option value="$PROJECT_DIR$/src/Integer Variable.kt" />
+        <option value="$PROJECT_DIR$/src/logika operator.kt" />
+        <option value="$PROJECT_DIR$/src/operator aritmatik plus and minus.kt" />
+        <option value="$PROJECT_DIR$/src/Readline.kt" />
+        <option value="$PROJECT_DIR$/src/remainder.kt" />
+        <option value="$PROJECT_DIR$/src/Type Float.kt" />
+        <option value="$PROJECT_DIR$/src/variable.kt" />
+        <option value="$PROJECT_DIR$/src/When Expression.kt" />
+        <option value="$PROJECT_DIR$/src/while loop.kt" />
+        <option value="$PROJECT_DIR$/src/VariableScope.kt" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/ClassRumah.kt" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.766/HashMap.kt" />
+        <option value="$PROJECT_DIR$/src/hasmap.kt" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.696/Arrays.kt" />
+        <option value="$PROJECT_DIR$/src/array.kt" />
+        <option value="$PROJECT_DIR$/src/arrayList.kt" />
+        <option value="$PROJECT_DIR$/src/Array/arrayList.kt" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.689/InterfaceClasses.kt" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.300/AppReadWrite.kt" />
+        <option value="$PROJECT_DIR$/src/appreadwrite.kt" />
+        <option value="$PROJECT_DIR$/src/readfile.kt" />
+        <option value="$PROJECT_DIR$/message.txt" />
+        <option value="$PROJECT_DIR$/src/IO_Kotlin/readfile.kt" />
+        <option value="$PROJECT_DIR$/src/Fungsi/polimorism.kt" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/polimorism.kt" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/kotlin.kt" />
+        <option value="$PROJECT_DIR$/src/Variable/hello word.kt" />
+        <option value="$PROJECT_DIR$/src/Variable/variable.kt" />
+        <option value="$PROJECT_DIR$/src/Variable/String Variable.kt" />
+        <option value="$PROJECT_DIR$/src/Variable/Integer Variable.kt" />
+        <option value="$PROJECT_DIR$/src/Variable/Type Float.kt" />
+        <option value="$PROJECT_DIR$/src/Variable/convert data type.kt" />
+        <option value="$PROJECT_DIR$/src/Variable/Type Boolean.kt" />
+        <option value="$PROJECT_DIR$/src/OperatorOperation/aritmatik kotlin.kt" />
+        <option value="$PROJECT_DIR$/src/PemrogramanStruktur/Conditional operator.kt" />
+        <option value="$PROJECT_DIR$/src/OperatorOperation/remainder.kt" />
+        <option value="$PROJECT_DIR$/src/PemrogramanStruktur/if else.kt" />
+        <option value="$PROJECT_DIR$/src/PemrogramanStruktur/for loop.kt" />
+        <option value="$PROJECT_DIR$/src/PemrogramanStruktur/while loop.kt" />
+        <option value="$PROJECT_DIR$/src/PemrogramanStruktur/do While loop.kt" />
+        <option value="$PROJECT_DIR$/src/PemrogramanStruktur/When Expression.kt" />
+        <option value="$PROJECT_DIR$/src/Fungsi/fungsi dengan parameter.kt" />
+        <option value="$PROJECT_DIR$/src/Fungsi/fungsi dengan return type.kt" />
+        <option value="$PROJECT_DIR$/src/Variable/VariableScope.kt" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/Rumah.kt" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/Animal.kt" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/OverLoadingConstruktor.kt" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/interface.kt" />
+        <option value="$PROJECT_DIR$/src/IO_Kotlin/appreadwrite.kt" />
+        <option value="$PROJECT_DIR$/.idea/kotlinc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="25eMs8igvIUl2odj1vhM2GicCyK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hello word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello word" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello word" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello word" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello word" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564974314028" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\IdeaProjects\hello word\src\ClassAndObject" />
+      <recent name="C:\Users\ASUS\IdeaProjects\hello word\src\Fungsi" />
+      <recent name="C:\Users\ASUS\IdeaProjects\hello word\src\IO_Kotlin" />
+      <recent name="C:\Users\ASUS\IdeaProjects\hello word\src\Array" />
+      <recent name="C:\Users\ASUS\IdeaProjects\hello word\src\OperatorOperation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.IO_Kotlin.AppreadwriteKt">
+    <configuration name="ClassAndObject.AnimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassAndObject.AnimalKt" />
+      <module name="hello word" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassAndObject.InterfaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassAndObject.InterfaceKt" />
+      <module name="hello word" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassAndObject.OverLoadingConstruktorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassAndObject.OverLoadingConstruktorKt" />
+      <module name="hello word" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IO_Kotlin.AppreadwriteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO_Kotlin.AppreadwriteKt" />
+      <module name="hello word" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IO_Kotlin.ReadfileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO_Kotlin.ReadfileKt" />
+      <module name="hello word" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.ClassAndObject.AnimalKt" />
+      <item itemvalue="Kotlin.ClassAndObject.OverLoadingConstruktorKt" />
+      <item itemvalue="Kotlin.ClassAndObject.InterfaceKt" />
+      <item itemvalue="Kotlin.IO_Kotlin.AppreadwriteKt" />
+      <item itemvalue="Kotlin.IO_Kotlin.ReadfileKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.IO_Kotlin.AppreadwriteKt" />
+        <item itemvalue="Kotlin.IO_Kotlin.ReadfileKt" />
+        <item itemvalue="Kotlin.ClassAndObject.InterfaceKt" />
+        <item itemvalue="Kotlin.ClassAndObject.OverLoadingConstruktorKt" />
+        <item itemvalue="Kotlin.ClassAndObject.AnimalKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fb8540b-7331-4dd2-b55f-1616c15b16ba" name="Default Changelist" comment="" />
+      <created>1559118150013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559118150013</updated>
+      <workItem from="1559118153550" duration="3082000" />
+      <workItem from="1559203555767" duration="2176000" />
+      <workItem from="1559291017067" duration="2872000" />
+      <workItem from="1559300065278" duration="594000" />
+      <workItem from="1559453627354" duration="4498000" />
+      <workItem from="1560150860319" duration="1259000" />
+      <workItem from="1560153975266" duration="481000" />
+      <workItem from="1560193264704" duration="1942000" />
+      <workItem from="1560526471491" duration="9000" />
+      <workItem from="1560617625877" duration="3339000" />
+      <workItem from="1560645451882" duration="1696000" />
+      <workItem from="1560669678565" duration="1986000" />
+      <workItem from="1560672347182" duration="75000" />
+      <workItem from="1560785568652" duration="4810000" />
+      <workItem from="1560870347457" duration="1369000" />
+      <workItem from="1561308109887" duration="2816000" />
+      <workItem from="1561829831012" duration="1342000" />
+      <workItem from="1561881096600" duration="1201000" />
+      <workItem from="1562346585896" duration="2195000" />
+      <workItem from="1562760381057" duration="13358000" />
+      <workItem from="1562799486912" duration="2836000" />
+      <workItem from="1562807512221" duration="15395000" />
+      <workItem from="1563123416010" duration="3807000" />
+      <workItem from="1564253780467" duration="920000" />
+      <workItem from="1564565571852" duration="598000" />
+      <workItem from="1564845431265" duration="3637000" />
+      <workItem from="1564886090775" duration="5302000" />
+      <workItem from="1564969392513" duration="2196000" />
+      <workItem from="1567928672608" duration="114000" />
+      <workItem from="1567931291906" duration="153000" />
+      <workItem from="1567931480796" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="86090000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" weight="0.32980332" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24281392" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.25409836" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295082" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/if else statement.kt" />
+    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/io/Console.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.970/Enum.kt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.766/HashMap.kt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.696/Arrays.kt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.249/ArrayList.kt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.689/InterfaceClasses.kt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.417/ReadInput.kt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.526/WriteToFile.kt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.300/AppReadWrite.kt" />
+    <entry file="file://$PROJECT_DIR$/src/IO kotlin.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Array/hasmap.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/array.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/arrayList.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Variable/hello word.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Variable/variable.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Variable/String Variable.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Variable/Integer Variable.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="53" lean-forward="true" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Variable/Type Float.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Variable/Type Boolean.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="78" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Variable/type char.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Variable/convert data type.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OperatorOperation/Readline.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OperatorOperation/aritmatik kotlin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OperatorOperation/incr and decr.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OperatorOperation/logika operator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OperatorOperation/operator aritmatik plus and minus.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OperatorOperation/remainder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PemrogramanStruktur/Conditional operator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PemrogramanStruktur/if else.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PemrogramanStruktur/for loop.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PemrogramanStruktur/while loop.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PemrogramanStruktur/do While loop.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PemrogramanStruktur/When Expression.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fungsi/fungsi dengan parameter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fungsi/fungsi dengan return type.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Variable/VariableScope.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/Rumah.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/Animal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/interface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IO_Kotlin/appreadwrite.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+          <folding>
+            <element signature="e#19#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Appreader.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IO_Kotlin/readfile.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#62#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/kotlin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/OverLoadingConstruktor.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/polimorism.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
